@@ -1,0 +1,4 @@
+#Tue Jul 14 17:17:17 ICT 2020
+base.0=C\:\\Users\\Minh Duc\\Desktop\\projects\\Goss\\android\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

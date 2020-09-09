@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1000078673728-dr4q5159ltfk3mshhn93npkmubptsh0u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1000078673728-dr4q5159ltfk3mshhn93npkmubptsh0u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8XWb0oaiNcN3a9VG-0HGuvh2llOfkAp0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1000078673728</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Sota-appGoss</string>
+	<key>PROJECT_ID</key>
+	<string>goss-e3e97</string>
+	<key>STORAGE_BUCKET</key>
+	<string>goss-e3e97.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1000078673728:ios:c69bfbb00d7a2d22e35ca5</string>
+	<key>DATABASE_URL</key>
+	<string>https://goss-e3e97.firebaseio.com</string>
+</dict>
+</plist>
